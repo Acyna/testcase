@@ -1,2 +1,2 @@
-# testcase
+# Test Case
 Testing Git Commits
